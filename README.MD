@@ -2,13 +2,12 @@
 
 **Bibliotecas TypeScript para manipulação segura de YAML**  
 
-
 ## 🛠️ Instalação Local
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/yaml-tools.git
-cd yaml-tools
+git clone https://github.com/rafaelfigueredog/yaml-ts.git
+cd yaml-ts
 ```
 
 2. Instale as dependências:
@@ -16,13 +15,6 @@ cd yaml-tools
 npm install
 # ou
 yarn install
-```
-
-3. Para usar em seu projeto:
-```bash
-npm link
-# No seu projeto:
-npm link yaml-tools
 ```
 
 ## 📚 Documentação
@@ -96,4 +88,4 @@ Contribuições são bem-vindas! Siga os passos:
 5. Abra um Pull Request
 
 ## 📜 Licença
-MIT © [Seu Nome]
+MIT © @rafaelfigueredog
