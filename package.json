@@ -1,0 +1,12 @@
+{
+  "name": "yaml-ts",
+  "version": "1.0.0",
+  "description": "Bibliotecas TypeScript para manipulação segura de YAML",
+  "main": "index.js",
+  "repository": "git@github.com:rafaelfigueredog/yaml-ts.git",
+  "author": "Rafael Guimarães <rafael.fguimaraes@dataprev.gov.br>",
+  "license": "MIT",
+  "dependencies": {
+    "yaml": "^2.7.1"
+  }
+}
